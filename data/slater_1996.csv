@@ -1,0 +1,51 @@
+state,university,lon,lat,text_lon,text_lat,graduates,year,enrollment_year,text_year
+Alabama,University of Alabama,-87.533756,33.205585,-86,28,Vivian Malone,1965,0,1965
+Alaska,University of Alaska,-147.82475,64.857053,-188,64.857053,NA,NA,0,NA
+Arizona,University of Arizona,-110.987419,32.248814,-111.5,34.5,Elgie Batteau,1935,0,1935
+Arkansas,University of Arkansas,-94.178214,36.06153,-92.2,35.1,Maxine Sutton and Billy Whitfield and Marjorie Wilkins,1955,1,1955*
+California,University of California,-122.258423,37.871853,-118,35.5,Charles Carpenter,1905,0,1905
+Colorado,University of Colorado,-105.267061,40.004415,-105.267061,39,Lucille Jones,1918,0,1918
+Connecticut,University of Connecticut,-72.249536,41.808215,-66.8,42,Alan Busby,1918,0,1918
+Delaware,University of Delaware,-75.753579,39.679782,-65.8,40,Isaiah DeGrasse,1836,0,1836
+Florida,University of Florida,-82.361195,29.638248,-77.5,27.6,Stephan Mickle,1965,0,1965
+Georgia,University of Georgia,-83.377319,33.948006,-78,30.2,Hamilton Holmes and Charlayne Hunter,1963,0,1963
+Hawaii,University of Hawaii,-157.816607,21.292648,-157,23.9,NA,NA,0,NA
+Idaho,University of Idaho,-117.024296,46.726894,-113.8,43.7,Jennie Hughes,1899,0,1899
+Illinois,University of Illinois,-88.228333,40.110558,-88.228333,42,William Smith,1900,0,1900
+Indiana,Indiana University,-86.526904,39.166383,-87.2,38,Marcellus Neal,1895,0,1895
+Iowa,University of Iowa,-91.535698,41.660695,-94,42.6,Samuel Brown,1898,0,1898
+Kansas,University of Kansas,-95.24587,38.95735,-98.2,39.2,Blanche Bruce,1885,0,1885
+Kentucky,University of Kentucky,-84.510698,38.028084,-81.3,38.028084,Doris Wilkinson,1958,0,1958
+Louisiana,Louisiana State University,-93.703762,32.428768,-92.8,28,Charles Harrington,1952,0,1952**
+Maine,University of Maine,-68.673837,44.895963,-70,50,Ada Peters,1927,0,1927
+Maryland,University of Maryland,-76.939704,38.988607,-65.8,37.9,Hiram Whittle,1951,1,1951*
+Massachusetts,University of Massachusetts,-72.527401,42.390989,-65,46,George Bridgeforth,1901,0,1901
+Michigan,University of Michigan,-83.73822,42.278046,-82.5,45.5,Gabriel Hargo,1870,0,1870
+Minnesota,University of Minnesota,-93.235352,44.977886,-93.8,47,Andrew Hilyer,1882,0,1882
+Mississippi,University of Mississippi,-89.539377,34.362144,-89.539377,32,James Meredith,1963,0,1963
+Missouri,University of Missouri,-92.326429,38.941015,-92.326429,38.2,Walter Hamilton and Hubert Kelly,1957,0,1957
+Montana,University of Montana,-112.016035,46.595384,-108,47.8,James Dorsey,1922,0,1922
+Nebraska,University of Nebraska,-96.70047,40.820744,-99.4,41.7,George Flippin,1892,0,1892
+Nevada,University of Nevada,-119.825639,39.55282,-116.7,40.2,Theodore Miller,1930,0,1930
+New Hampshire,University of New Hampshire,-70.934512,43.134235,-65,48,Elizabeth Virgil,1926,0,1926
+New Jersey,Rutgers University,-74.45051,40.503796,-72,40.2,James Carr,1892,0,1892
+New Mexico,University of New Mexico,-106.620155,35.083868,-106,33.8,Oliver LaGrone,1938,0,1938
+New York,SUNY-Albany,-73.825014,42.686917,-75.5,45.5,Georgine Lewis,1911,0,1911
+North Carolina,University of North Carolina,-79.046761,35.904613,-73,34.3,David Dansby Jr.,1961,0,1961
+North Dakota,University of North Dakota,-97.070824,47.921879,-100.8,48,Frederick Pollard Jr. and Horace Johnson,1939,0,1939
+Ohio,Ohio State University,-83.009001,39.998389,-83,41.5,Sherman Guss,1892,0,1892
+Oklahoma,University of Oklahoma,-97.445717,35.205894,-100.5,36.3,Ada Sipuel,1951,0,1951**
+Oregon,University of Oregon,-123.07398,44.044515,-120,43.9,Mabel Byrd,1917,1,1917*
+Pennsylvania,Pennsylvania State University,-77.859909,40.798214,-78.5,43.5,Calvin Waller,1905,0,1905
+Rhode Island,University of Rhode Island,-71.531052,41.481616,-65.3,44,Harvey Turner,1914,0,1914
+South Carolina,University of South Carolina,-81.037739,34.006153,-76,32.2,Thomas Stewart,1875,0,1875
+South Dakota,University of South Dakota,-96.924664,42.784558,-100,44.8,NA,NA,0,NA
+Tennessee,University of Tennessee,-83.929696,35.955093,-86.8,35.955093,Theotis Robinson,1961,1,1961*
+Texas,University of Texas,-97.737277,30.284734,-97.737277,32.5,Edna Rhambo,1958,0,1958
+Utah,University of Utah,-111.846044,40.762484,-111.2,39.2,NA,NA,0,NA
+Vermont,University of Vermont,-73.198128,44.479262,-73.198128,47.6,George Henderson,1877,0,1877
+Virginia,University of Virginia,-78.50798,38.033554,-72.5,36.3,Robert Bland,1959,0,1959
+Washington,University of Washington,-122.3032,47.655548,-119,48,NA,NA,0,NA
+West Virginia,West Virginia University,-79.953926,39.63468,-71.5,38.3,Jack Hodges,1954,0,1954
+Wisconsin,University of Wisconsin,-89.405356,43.073858,-89.405356,45,William Noland,1875,0,1875
+Wyoming,University of Wyoming,-105.57204,41.311943,-107,43,NA,NA,0,NA
