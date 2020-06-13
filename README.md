@@ -1,6 +1,6 @@
-# Mapping the First Black Graduates in American Colleges
+![Map of the first black graduates at American universities, underlying data file is in the data folder](map.jpg)
 
-![](map.jpg)
+# Mapping the First Black Graduates at American Colleges
 
 Academia has a legacy of racism, white supremacy, and colonialism that persists to this day and which must be confronted head-on by white people.
 
