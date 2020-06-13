@@ -1,6 +1,6 @@
 # Mapping the First Black Graduates in American Colleges
 
-![]("map.jpg")
+![](map.jpg)
 
 Academia has a legacy of racism, white supremacy, and colonialism that persists to this day and which must be confronted head-on by white people.
 
